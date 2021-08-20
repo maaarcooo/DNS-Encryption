@@ -44,16 +44,16 @@
 ## Features
 | [DNSSec](https://en.wikipedia.org/wiki/Domain_Name_System_Security_Extensions) | No Logs | [IPv4](https://en.wikipedia.org/wiki/IPv4) | [IPv6](https://en.wikipedia.org/wiki/IPv6) | No Filter | Family Filter | [Ad blocking](https://en.wikipedia.org/wiki/Ad_blocking) | Malware filter |
 
-- [Cloudflare](https://1.1.1.1/) DNSSec | No Logs | No Filter | IPv4
-- [Security](https://developers.cloudflare.com/1.1.1.1/1.1.1.1-for-families/setup-instructions/dns-over-https) DNSSec | No Logs | IPv4 | Malware filter
-- [Family](https://developers.cloudflare.com/1.1.1.1/1.1.1.1-for-families/setup-instructions/dns-over-https) DNSSec | No Logs | IPv4 | Family Filter | Malware filter
-- [ADGuard](https://adguard.com/en/adguard-dns/overview.html) DNSSec | No Logs | IPv4 | Ad blocking
-- [Family protection](https://adguard.com/en/adguard-dns/overview.html) DNSSec | No Logs | IPv4 | Family Filter | Ad blocking
-- [Non-filtering](https://adguard.com/en/adguard-dns/overview.html) DNSSec | No Logs | IPv4 | No Filter
-- [Google](https://developers.google.com/speed/public-dns/) DNSSec | IPv4 | No Filter
-- [Quad9](https://quad9.net/service/service-addresses-and-features) DNSSec | No Logs | IPv4 | Malware filter
-- [ECS](https://quad9.net/service/service-addresses-and-features#ecssec) 
-- [Unsecured](https://quad9.net/service/service-addresses-and-features#unsec)
+- [Cloudflare](https://1.1.1.1/) DNSSec | No Logs | No Filter | IPv4 | IPv6
+- [Security](https://developers.cloudflare.com/1.1.1.1/1.1.1.1-for-families/setup-instructions/dns-over-https) DNSSec | No Logs | IPv4 | IPv6 | Malware filter
+- [Family](https://developers.cloudflare.com/1.1.1.1/1.1.1.1-for-families/setup-instructions/dns-over-https) DNSSec | No Logs | IPv4 | IPv6 | Family Filter | Malware filter
+- [ADGuard](https://adguard.com/en/adguard-dns/overview.html) DNSSec | No Logs | IPv4 | IPv6 | Ad blocking
+- [Family protection](https://adguard.com/en/adguard-dns/overview.html) DNSSec | No Logs | IPv4 | IPv6 | Family Filter | Ad blocking
+- [Non-filtering](https://adguard.com/en/adguard-dns/overview.html) DNSSec | No Logs | IPv4 | IPv6 | No Filter
+- [Google](https://developers.google.com/speed/public-dns/) DNSSec | IPv4 | IPv6 | No Filter
+- [Quad9](https://quad9.net/service/service-addresses-and-features) DNSSec | No Logs | IPv4 | IPv6 | Malware filter
+- [ECS](https://quad9.net/service/service-addresses-and-features#ecssec) DNSSec | No Logs | IPv4 | IPv6 | Malware filter
+- [Unsecured](https://quad9.net/service/service-addresses-and-features#unsec) DNSSec | No Logs | IPv4 | IPv6 | No Filter
 - [OpenDNS](https://www.opendns.com/home-internet-security/)
 - [NextDNS](https://nextdns.io/)
 
