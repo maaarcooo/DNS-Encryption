@@ -51,8 +51,8 @@
 - [Family protection](https://adguard.com/en/adguard-dns/overview.html) DNSSec | No Logs | IPv4 | Family Filter | Ad blocking
 - [Non-filtering](https://adguard.com/en/adguard-dns/overview.html) DNSSec | No Logs | IPv4 | No Filter
 - [Google](https://developers.google.com/speed/public-dns/) DNSSec | IPv4 | No Filter
-- [Quad9](https://quad9.net/service/service-addresses-and-features)
-- [ECS](https://quad9.net/service/service-addresses-and-features#ecssec)
+- [Quad9](https://quad9.net/service/service-addresses-and-features) DNSSec | No Logs | IPv4 | Malware filter
+- [ECS](https://quad9.net/service/service-addresses-and-features#ecssec) 
 - [OpenDNS](https://www.opendns.com/home-internet-security/)
 - [NextDNS](https://nextdns.io/)
 
