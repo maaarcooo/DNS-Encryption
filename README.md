@@ -41,7 +41,7 @@
 
 ------------------------------------------------------
 
-## Compare
+## Features
 | DNSSec | No Logs | No Filter | IPv4 | IPv6 | Family Filter | Ad blocking | Malware filter |
 
 - [Cloudflare](https://1.1.1.1/)
@@ -55,6 +55,8 @@
 - [ECS](https://quad9.net/service/service-addresses-and-features#ecssec)
 - [OpenDNS](https://www.opendns.com/home-internet-security/)
 - [NextDNS](https://nextdns.io/)
+
+## Compare
 
 ## Manual
 Select a mobileconfig and raw to download a configuration profile.
