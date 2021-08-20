@@ -59,7 +59,10 @@
 - [NextDNS](https://nextdns.io/) DNSSec | No Logs | IPv4 | IPv6 | Family Filter | Ad blocking | Malware filter (Custom)
 
 ## Compare
-
+- Cloudflare is the fastest DNS.
+- ADGuard  #Adblock
+- Quad9  #Malware filter
+- NextDNS  #Custom setting
 ## Manual
 Select a mobileconfig and raw to download a configuration profile.
 On iOS, after installation, go to system Settings => General => Profile, select downloaded profile and click “Install” button.
