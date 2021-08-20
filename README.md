@@ -1,5 +1,5 @@
 # DNS-Encryption
-[DNS over TLS](https://en.wikipedia.org/wiki/DNS_over_TLS) &amp; [DNS over HTTPS](https://en.wikipedia.org/wiki/DNS_over_HTTPS) for iOS 14 and macOS Big Sur or newer systems.
+[DNS over TLS](https://en.wikipedia.org/wiki/DNS_over_TLS) &amp; [DNS over HTTPS](https://en.wikipedia.org/wiki/DNS_over_HTTPS) for [iOS 14](https://www.apple.com/ios/ios-14/) and [macOS Big Sur](https://www.apple.com/macos/big-sur/) or newer systems.
 
 ## Manual
 Select a mobileconfig and raw to download a configuration profile.
