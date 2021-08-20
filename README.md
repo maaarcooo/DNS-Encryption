@@ -8,8 +8,8 @@
 ## [Cloudflare](https://1.1.1.1/)
 - [DNS over TLS](https://github.com/MARCO-EMC/DNS-Encryption/raw/main/cloudflare-dot.mobileconfig)
 - [DNS over HTTPS](https://github.com/MARCO-EMC/DNS-Encryption/raw/main/cloudflare-doh.mobileconfig)
-- [Security](https://github.com/MARCO-EMC/DNS-Encryption/raw/main/cloudflare-security-doh.mobileconfig)
-- [Family](https://github.com/MARCO-EMC/DNS-Encryption/raw/main/cloudflare-family-doh.mobileconfig)
+- [DNS over HTTPS Security](https://github.com/MARCO-EMC/DNS-Encryption/raw/main/cloudflare-security-doh.mobileconfig)
+- [DNS over HTTPS Family](https://github.com/MARCO-EMC/DNS-Encryption/raw/main/cloudflare-family-doh.mobileconfig)
 
 ## [ADGuard](https://adguard.com/en/adguard-dns/overview.html)
 - [DNS over TLS](https://github.com/MARCO-EMC/DNS-Encryption/raw/main/adguard-dot.mobileconfig)
