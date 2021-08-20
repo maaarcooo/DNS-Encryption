@@ -3,12 +3,6 @@
 
 ------------------------------------------------------
 
-## Manual
-Select a mobileconfig and raw to download a configuration profile.
-On iOS, after installation, go to system Settings => General => Profile, select downloaded profile and click “Install” button.
-
-------------------------------------------------------
-
 ## [Cloudflare](https://1.1.1.1/) shortcuts
 - [DNS over TLS](https://github.com/MARCO-EMC/DNS-Encryption/raw/main/cloudflare-dot.mobileconfig)
 - [DNS over HTTPS](https://github.com/MARCO-EMC/DNS-Encryption/raw/main/cloudflare-doh.mobileconfig)
@@ -27,10 +21,15 @@ On iOS, after installation, go to system Settings => General => Profile, select 
 
 ------------------------------------------------------
 
+## Manual
+Select a mobileconfig and raw to download a configuration profile.
+On iOS, after installation, go to system Settings => General => Profile, select downloaded profile and click “Install” button.
+
 ## Test URL
 - [Cloudflare](https://1.1.1.1/help)
 - [ADGuard](https://adguard.com/en/test.html)
 - [DNS leak test](https://surfshark.com/dns-leak-test) by [Surfshark](https://surfshark.com/)
+
 ------------------------------------------------------
 
 ## [DNS over TLS vs. DNS over HTTPS | Secure DNS](https://www.cloudflare.com/learning/dns/dns-over-tls/)
