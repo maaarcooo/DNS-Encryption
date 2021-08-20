@@ -3,6 +3,8 @@
 
 ------------------------------------------------------
 
+## Shortcuts
+
 ## [Cloudflare](https://1.1.1.1/) shortcuts
 - [DNS over TLS](https://github.com/MARCO-EMC/DNS-Encryption/raw/main/cloudflare-dot.mobileconfig)
 - [DNS over HTTPS](https://github.com/MARCO-EMC/DNS-Encryption/raw/main/cloudflare-doh.mobileconfig)
