@@ -55,6 +55,7 @@
 - [ECS](https://quad9.net/service/service-addresses-and-features#ecssec) DNSSec | No Logs | IPv4 | IPv6 | Malware filter
 - [Unsecured](https://quad9.net/service/service-addresses-and-features#unsec) DNSSec | No Logs | IPv4 | IPv6 | No Filter
 - [OpenDNS](https://www.opendns.com/home-internet-security/)
+- [FamilyShield](https://www.opendns.com/setupguide/#familyshield)
 - [NextDNS](https://nextdns.io/)
 
 ## Compare
