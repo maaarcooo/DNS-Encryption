@@ -53,6 +53,7 @@
 - [Google](https://developers.google.com/speed/public-dns/) DNSSec | IPv4 | No Filter
 - [Quad9](https://quad9.net/service/service-addresses-and-features) DNSSec | No Logs | IPv4 | Malware filter
 - [ECS](https://quad9.net/service/service-addresses-and-features#ecssec) 
+- [Unsecured](https://quad9.net/service/service-addresses-and-features#unsec)
 - [OpenDNS](https://www.opendns.com/home-internet-security/)
 - [NextDNS](https://nextdns.io/)
 
