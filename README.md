@@ -11,7 +11,6 @@ Select a mobileconfig and raw to download a configuration profile.
 On iOS, after installation, go to system Settings => General => Profile, select downloaded profile and click “Install” button.
 
 ## Cloudflare
-
 DNS over TLS https://github.com/MARCO-EMC/DNS-Encryption/raw/main/cloudflare-dot.mobileconfig
 
 DNS over HTTPS https://github.com/MARCO-EMC/DNS-Encryption/raw/main/cloudflare-doh.mobileconfig
@@ -21,6 +20,6 @@ Security https://github.com/MARCO-EMC/DNS-Encryption/raw/main/cloudflare-securit
 Family https://github.com/MARCO-EMC/DNS-Encryption/raw/main/cloudflare-family-doh.mobileconfig
 
 ## Test URL
-Cloudflare
+Cloudflare https://1.1.1.1/help
 
-ADGuard
+ADGuard https://adguard.com/en/test.html
