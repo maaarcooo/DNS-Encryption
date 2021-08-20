@@ -19,6 +19,9 @@ Security https://github.com/MARCO-EMC/DNS-Encryption/raw/main/cloudflare-securit
 
 Family https://github.com/MARCO-EMC/DNS-Encryption/raw/main/cloudflare-family-doh.mobileconfig
 
+## ADGuard
+
+
 ## Test URL
 Cloudflare https://1.1.1.1/help
 
