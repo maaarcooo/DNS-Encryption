@@ -1,5 +1,5 @@
 # DNS-Encryption
-DNS over TLS &amp; DNS over HTTPS for iOS 14 and macOS Big Sur or newer systems.
+[DNS over TLS](https://en.wikipedia.org/wiki/DNS_over_TLS) &amp; [DNS over HTTPS](https://en.wikipedia.org/wiki/DNS_over_HTTPS) for iOS 14 and macOS Big Sur or newer systems.
 
 ## Details
 DNS over TLS(DoT) Port:853 
@@ -11,21 +11,21 @@ Select a mobileconfig and raw to download a configuration profile.
 On iOS, after installation, go to system Settings => General => Profile, select downloaded profile and click “Install” button.
 
 ## Cloudflare
-DNS over TLS https://github.com/MARCO-EMC/DNS-Encryption/raw/main/cloudflare-dot.mobileconfig
+[DNS over TLS](https://github.com/MARCO-EMC/DNS-Encryption/raw/main/cloudflare-dot.mobileconfig)
 
-DNS over HTTPS https://github.com/MARCO-EMC/DNS-Encryption/raw/main/cloudflare-doh.mobileconfig
+[DNS over HTTPS](https://github.com/MARCO-EMC/DNS-Encryption/raw/main/cloudflare-doh.mobileconfig)
 
-Security https://github.com/MARCO-EMC/DNS-Encryption/raw/main/cloudflare-security-doh.mobileconfig
+[Security](https://github.com/MARCO-EMC/DNS-Encryption/raw/main/cloudflare-security-doh.mobileconfig)
 
-Family https://github.com/MARCO-EMC/DNS-Encryption/raw/main/cloudflare-family-doh.mobileconfig
+[Family](https://github.com/MARCO-EMC/DNS-Encryption/raw/main/cloudflare-family-doh.mobileconfig)
 
 ## ADGuard
 
 
 ## Test URL
-Cloudflare https://1.1.1.1/help
+[Cloudflare](https://1.1.1.1/help)
 
-ADGuard https://adguard.com/en/test.html
+[ADGuard](https://adguard.com/en/test.html)
 
 ## DNS over TLS vs. DNS over HTTPS | Secure DNS
 DNS queries are sent in plaintext, which means anyone can read them. DNS over HTTPS and DNS over TLS encrypt DNS queries and responses to keep user browsing secure and private. However, both approaches have their pros and cons.
