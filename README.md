@@ -43,8 +43,16 @@
 
 ## Compare
 - [Cloudflare](https://1.1.1.1/)
+- [Security](https://developers.cloudflare.com/1.1.1.1/1.1.1.1-for-families/setup-instructions/dns-over-https)
+- [Family](https://developers.cloudflare.com/1.1.1.1/1.1.1.1-for-families/setup-instructions/dns-over-https)
 - [ADGuard](https://adguard.com/en/adguard-dns/overview.html)
+- [Family protection](https://adguard.com/en/adguard-dns/overview.html)
+- [Non-filtering](https://adguard.com/en/adguard-dns/overview.html)
 - [Google](https://developers.google.com/speed/public-dns/)
+- [Quad9](https://quad9.net/service/service-addresses-and-features)
+- [ECS](https://quad9.net/service/service-addresses-and-features#ecssec)
+- [OpenDNS](https://www.opendns.com/home-internet-security/)
+- [NextDNS](https://nextdns.io/)
 
 ## Manual
 Select a mobileconfig and raw to download a configuration profile.
