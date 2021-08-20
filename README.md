@@ -32,6 +32,8 @@ Think of a normal, unencrypted DNS query as being like a postcard sent through t
 
 DNS over [TLS](https://www.cloudflare.com/learning/ssl/transport-layer-security-tls/) and DNS over [HTTPS](https://www.cloudflare.com/learning/ssl/what-is-https/) are two standards developed for encrypting plaintext DNS traffic in order to prevent malicious parties, advertisers, ISPs, and others from being able to interpret the data. Continuing the analogy, these standards aim to put an envelope around all postcards going through the mail, so that anyone can send a postcard without worrying that someone is snooping on what they are up to.
 
+![images](https://images.ctfassets.net/slt3lc6tev37/7qcyOJwWyOt4EVJykiIRTn/30e34453409eb42fa1ec36680609ad8d/dns-traffic-over-tls-https.svg)
+
 ## What is DNS over TLS?
 DNS over TLS, or DoT, is a standard for encrypting DNS queries to keep them secure and private. DoT uses the same security protocol, TLS, that HTTPS websites use to encrypt and authenticate communications. (TLS is also known as "[SSL](https://www.cloudflare.com/learning/ssl/what-is-ssl/).") DoT adds TLS encryption on top of the user datagram protocol (UDP), which is used for DNS queries. Additionally, it ensures that DNS requests and responses are not tampered with or forged via [on-path attacks](https://www.cloudflare.com/learning/security/threats/on-path-attack/).
 
