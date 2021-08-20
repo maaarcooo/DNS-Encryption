@@ -128,4 +128,6 @@ To learn more about 1.1.1.1, see [What is 1.1.1.1?](https://www.cloudflare.com/l
 
 By [Cloudflare](https://www.cloudflare.com/learning/dns/dns-over-tls/)
 
-[Developer](https://developer.apple.com/)   [DNSSettings](https://developer.apple.com/documentation/devicemanagement/dnssettings)
+[DNSSettings](https://developer.apple.com/documentation/devicemanagement/dnssettings)
+
+[Developer](https://developer.apple.com/)
