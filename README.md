@@ -31,7 +31,7 @@
 - [DNS over TLS Unsecured](https://github.com/MARCO-EMC/DNS-Encryption/raw/main/quad9-unsecured-dot.mobileconfig)
 - [DNS over HTTPS Unsecured](https://github.com/MARCO-EMC/DNS-Encryption/raw/main/quad9-unsecured-doh.mobileconfig)
 
-## [OpenDNS](https://www.opendns.com/home-internet-security/)
+## [OpenDNS](https://support.opendns.com/hc/en-us/articles/360038086532-Using-DNS-over-HTTPS-DoH-with-OpenDNS)
 - [DNS over HTTPS]
 - [DNS over HTTPS FamilyShield]
 
