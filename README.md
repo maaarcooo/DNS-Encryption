@@ -24,8 +24,8 @@
 - [DNS over HTTPS](https://github.com/MARCO-EMC/DNS-Encryption/raw/main/google-doh.mobileconfig)
 
 ## [Quad9](https://quad9.net/service/service-addresses-and-features)
-- [DNS over TLS]
-- [DNS over HTTPS]
+- [DNS over TLS](https://github.com/MARCO-EMC/DNS-Encryption/raw/main/quad9-dot.mobileconfig)
+- [DNS over HTTPS](https://github.com/MARCO-EMC/DNS-Encryption/raw/main/quad9-doh.mobileconfig)
 - [DNS over TLS ECS]
 - [DNS over HTTPS ECS]
 - [DNS over TLS Unsecured]
