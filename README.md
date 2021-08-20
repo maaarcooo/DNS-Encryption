@@ -22,7 +22,7 @@ On iOS, after installation, go to system Settings => General => Profile, select 
 - [DNS leak test](https://surfshark.com/dns-leak-test) by [Surfshark](https://surfshark.com/)
 ------------------------------------------------------
 
-## DNS over TLS vs. DNS over HTTPS | Secure DNS
+## [DNS over TLS vs. DNS over HTTPS | Secure DNS](https://www.cloudflare.com/learning/dns/dns-over-tls/)
 DNS queries are sent in plaintext, which means anyone can read them. DNS over HTTPS and DNS over TLS encrypt DNS queries and responses to keep user browsing secure and private. However, both approaches have their pros and cons.
 
 ## Why does DNS need additional layers of security?
