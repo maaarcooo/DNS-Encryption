@@ -18,6 +18,9 @@
 - [DNS over HTTPS Family protection](https://github.com/MARCO-EMC/DNS-Encryption/raw/main/adguard-family-doh.mobileconfig)
 - [DNS over TLS Non-filtering](https://github.com/MARCO-EMC/DNS-Encryption/raw/main/adguard-unfiltered-dot.mobileconfig)
 - [DNS over HTTPS Non-filtering](https://github.com/MARCO-EMC/DNS-Encryption/raw/main/adguard-unfiltered-doh.mobileconfig)
+- [Verified ADGuard DNS](https://github.com/MARCO-EMC/DNS-Encryption/blob/main/adguard-dns.mobileconfig?raw=true)
+- [Verified AdGuard DNS Family protection](https://github.com/MARCO-EMC/DNS-Encryption/blob/main/adguard-dns-family.mobileconfig?raw=true)
+- [Verified AdGuard DNS Non-filtering](https://github.com/MARCO-EMC/DNS-Encryption/blob/main/adguard-dns-unfiltered.mobileconfig?raw=true)
 
 ## [Google](https://developers.google.com/speed/public-dns/)
 - [DNS over TLS](https://github.com/MARCO-EMC/DNS-Encryption/raw/main/google-dot.mobileconfig)
