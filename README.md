@@ -21,6 +21,11 @@
 
 ------------------------------------------------------
 
+## Compare
+- [Cloudflare](https://1.1.1.1/)
+- [ADGuard](https://adguard.com/en/adguard-dns/overview.html)
+- [Google](https://developers.google.com/speed/public-dns/)
+
 ## Manual
 Select a mobileconfig and raw to download a configuration profile.
 On iOS, after installation, go to system Settings => General => Profile, select downloaded profile and click “Install” button.
