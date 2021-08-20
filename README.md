@@ -31,7 +31,7 @@ Think of a normal, unencrypted DNS query as being like a postcard sent through t
 DNS over [TLS](https://www.cloudflare.com/learning/ssl/transport-layer-security-tls/) and DNS over [HTTPS](https://www.cloudflare.com/learning/ssl/what-is-https/) are two standards developed for encrypting plaintext DNS traffic in order to prevent malicious parties, advertisers, ISPs, and others from being able to interpret the data. Continuing the analogy, these standards aim to put an envelope around all postcards going through the mail, so that anyone can send a postcard without worrying that someone is snooping on what they are up to.
 
 ## What is DNS over TLS?
-DNS over TLS, or DoT, is a standard for encrypting DNS queries to keep them secure and private. DoT uses the same security protocol, TLS, that HTTPS websites use to encrypt and authenticate communications. (TLS is also known as "SSL.") DoT adds TLS encryption on top of the user datagram protocol (UDP), which is used for DNS queries. Additionally, it ensures that DNS requests and responses are not tampered with or forged via on-path attacks.
+DNS over TLS, or DoT, is a standard for encrypting DNS queries to keep them secure and private. DoT uses the same security protocol, TLS, that HTTPS websites use to encrypt and authenticate communications. (TLS is also known as "[SSL](https://www.cloudflare.com/learning/ssl/what-is-ssl/).") DoT adds TLS encryption on top of the user datagram protocol (UDP), which is used for DNS queries. Additionally, it ensures that DNS requests and responses are not tampered with or forged via [on-path attacks](https://www.cloudflare.com/learning/security/threats/on-path-attack/).
 
 ## What is DNS over HTTPS?
 DNS over HTTPS, or DoH, is an alternative to DoT. With DoH, DNS queries and responses are encrypted, but they are sent via the HTTP or HTTP/2 protocols instead of directly over UDP. Like DoT, DoH ensures that attackers can't forge or alter DNS traffic. DoH traffic looks like other HTTPS traffic – e.g. normal user-driven interactions with websites and web apps – from a network administrator's perspective.
@@ -55,11 +55,11 @@ This is up for debate. From a network security standpoint, DoT is arguably bette
 
 However, from a privacy perspective, DoH is arguably preferable. With DoH, DNS queries are hidden within the larger flow of HTTPS traffic. This gives network administrators less visibility but provides users with more privacy.
 
-1.1.1.1, the free DNS resolver from Cloudflare, supports both DoT and DoH.
+[1.1.1.1, the free DNS resolver from Cloudflare](https://1.1.1.1/), supports both DoT and DoH.
 
 ## What is the difference between DNS over TLS/HTTPS and DNSSEC?
-DNSSEC is a set of security extensions for verifying the identity of DNS root servers and authoritative nameservers in communications with DNS resolvers. It is designed to prevent DNS cache poisoning, among other attacks. It does not encrypt communications. DNS over TLS or HTTPS, on the other hand, does encrypt DNS queries. 1.1.1.1 supports DNSSEC as well.
+[DNSSEC](https://www.cloudflare.com/learning/dns/dns-security/) is a set of security extensions for verifying the identity of [DNS root servers](https://www.cloudflare.com/learning/dns/glossary/dns-root-server/) and authoritative nameservers in communications with [DNS resolvers](https://www.cloudflare.com/learning/dns/dns-server-types/). It is designed to prevent [DNS cache poisoning](https://www.cloudflare.com/learning/dns/dns-cache-poisoning/), among other attacks. It does not encrypt communications. DNS over TLS or HTTPS, on the other hand, does encrypt DNS queries. 1.1.1.1 supports DNSSEC as well.
 
-To learn more about 1.1.1.1, see What is 1.1.1.1?
+To learn more about 1.1.1.1, see [What is 1.1.1.1?](https://www.cloudflare.com/learning/dns/what-is-1.1.1.1/)
 
 By [Cloudflare](https://www.cloudflare.com/learning/dns/dns-over-tls/)
