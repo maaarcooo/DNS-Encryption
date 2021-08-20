@@ -42,7 +42,8 @@
 ------------------------------------------------------
 
 ## Compare
-|---------------------------
+|Name |DNSSec |No Logs |No Filter |IPv4 |IPv6 |
+------------------------------------------------------
 - [Cloudflare](https://1.1.1.1/)
 - [Security](https://developers.cloudflare.com/1.1.1.1/1.1.1.1-for-families/setup-instructions/dns-over-https)
 - [Family](https://developers.cloudflare.com/1.1.1.1/1.1.1.1-for-families/setup-instructions/dns-over-https)
