@@ -21,7 +21,7 @@ On iOS, after installation, go to system Settings => General => Profile, select 
 - [DNS over HTTPS](https://github.com/MARCO-EMC/DNS-Encryption/raw/main/adguard-doh.mobileconfig)
 - [DNS over HTTPS Family protection](https://github.com/MARCO-EMC/DNS-Encryption/raw/main/adguard-family-doh.mobileconfig)
 
-## [Google](https://developers.google.com/speed/public-dns/)
+## [Google](https://developers.google.com/speed/public-dns/) shortcuts
 
 ------------------------------------------------------
 
