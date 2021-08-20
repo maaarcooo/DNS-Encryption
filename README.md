@@ -19,7 +19,7 @@ On iOS, after installation, go to system Settings => General => Profile, select 
 ## Test URL
 - [Cloudflare](https://1.1.1.1/help)
 - [ADGuard](https://adguard.com/en/test.html)
-
+- [DNS leak test](https://surfshark.com/dns-leak-test) by [Surfshark](https://surfshark.com/)
 ------------------------------------------------------
 
 ## DNS over TLS vs. DNS over HTTPS | Secure DNS
