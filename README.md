@@ -30,6 +30,15 @@
 - [DNS over HTTPS ECS]
 - [DNS over TLS Unsecured]
 - [DNS over HTTPS Unsecured]
+
+## [OpenDNS](https://www.opendns.com/home-internet-security/)
+- [DNS over TLS]
+- [DNS over HTTPS]
+
+## [NextDNS](https://nextdns.io/)
+- [DNS over TLS]
+- [DNS over HTTPS]
+
 ------------------------------------------------------
 
 ## Compare
