@@ -41,7 +41,7 @@
 ## [NextDNS](https://nextdns.io/)
 - [DNS over TLS](https://github.com/MARCO-EMC/DNS-Encryption/raw/main/nextdns-dot.mobileconfig)
 - [DNS over HTTPS](https://github.com/MARCO-EMC/DNS-Encryption/raw/main/nextdns-doh.mobileconfig)
-- [Verified NextDNS](https://github.com/MARCO-EMC/DNS-Encryption/blob/main/NextDNS-fecbc1.mobileconfig?raw=true)
+- [Verified NextDNS](https://github.com/MARCO-EMC/DNS-Encryption/blob/main/nextdns-fecbc1.mobileconfig?raw=true)
 
 ------------------------------------------------------
 
