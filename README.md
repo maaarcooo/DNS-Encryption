@@ -19,9 +19,8 @@ On iOS, after installation, go to system Settings => General => Profile, select 
 
 
 ## Test URL
-[Cloudflare](https://1.1.1.1/help)
-
-[ADGuard](https://adguard.com/en/test.html)
+- [Cloudflare](https://1.1.1.1/help)
+- [ADGuard](https://adguard.com/en/test.html)
 
 ## DNS over TLS vs. DNS over HTTPS | Secure DNS
 DNS queries are sent in plaintext, which means anyone can read them. DNS over HTTPS and DNS over TLS encrypt DNS queries and responses to keep user browsing secure and private. However, both approaches have their pros and cons.
