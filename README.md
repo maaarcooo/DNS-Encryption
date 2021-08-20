@@ -36,9 +36,9 @@
 - [DNS over HTTPS FamilyShield](https://github.com/MARCO-EMC/DNS-Encryption/raw/main/opendns-familyshield-doh.mobileconfig)
 
 ## [NextDNS](https://nextdns.io/)
-- [apple.nextdns.io](https://github.com/MARCO-EMC/DNS-Encryption/blob/main/NextDNS-fecbc1.mobileconfig?raw=true)
 - [DNS over TLS](https://github.com/MARCO-EMC/DNS-Encryption/raw/main/nextdns-dot.mobileconfig)
 - [DNS over HTTPS](https://github.com/MARCO-EMC/DNS-Encryption/raw/main/nextdns-doh.mobileconfig)
+- [apple.nextdns.io](https://github.com/MARCO-EMC/DNS-Encryption/blob/main/NextDNS-fecbc1.mobileconfig?raw=true)
 
 ------------------------------------------------------
 
