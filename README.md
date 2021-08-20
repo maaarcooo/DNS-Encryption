@@ -19,6 +19,8 @@
 - [DNS over TLS](https://github.com/MARCO-EMC/DNS-Encryption/raw/main/google-dot.mobileconfig)
 - [DNS over HTTPS](https://github.com/MARCO-EMC/DNS-Encryption/raw/main/google-doh.mobileconfig)
 
+## [Quad9](https://quad9.net/service/service-addresses-and-features) shortcuts
+
 ------------------------------------------------------
 
 ## Compare
