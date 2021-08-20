@@ -19,3 +19,8 @@ DNS over HTTPS https://github.com/MARCO-EMC/DNS-Encryption/raw/main/cloudflare-d
 Security https://github.com/MARCO-EMC/DNS-Encryption/raw/main/cloudflare-security-doh.mobileconfig
 
 Family https://github.com/MARCO-EMC/DNS-Encryption/raw/main/cloudflare-family-doh.mobileconfig
+
+## Test URL
+Cloudflare
+
+ADGuard
