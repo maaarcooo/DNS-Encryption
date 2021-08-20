@@ -1,6 +1,8 @@
 # [DNS-Encryption](https://blog.cloudflare.com/dns-encryption-explained/)
 [DNS over TLS](https://en.wikipedia.org/wiki/DNS_over_TLS) &amp; [DNS over HTTPS](https://en.wikipedia.org/wiki/DNS_over_HTTPS) for [iOS 14](https://www.apple.com/ios/ios-14/) and [macOS Big Sur](https://www.apple.com/macos/big-sur/) or newer systems.
 
+------------------------------------------------------
+
 ## Manual
 Select a mobileconfig and raw to download a configuration profile.
 On iOS, after installation, go to system Settings => General => Profile, select downloaded profile and click “Install” button.
