@@ -14,7 +14,10 @@ On iOS, after installation, go to system Settings => General => Profile, select 
 - [Family](https://github.com/MARCO-EMC/DNS-Encryption/raw/main/cloudflare-family-doh.mobileconfig)
 
 ## [ADGuard](https://adguard.com/en/adguard-dns/overview.html) shortcuts
-
+- [DNS over TLS](https://github.com/MARCO-EMC/DNS-Encryption/raw/main/adguard-dot.mobileconfig)
+- [DNS over TLS Family protection](https://github.com/MARCO-EMC/DNS-Encryption/raw/main/adguard-family-dot.mobileconfig)
+- [DNS over HTTPS](https://github.com/MARCO-EMC/DNS-Encryption/raw/main/adguard-doh.mobileconfig)
+- [DNS over HTTPS Family protection](https://github.com/MARCO-EMC/DNS-Encryption/raw/main/adguard-family-doh.mobileconfig)
 
 ## Test URL
 - [Cloudflare](https://1.1.1.1/help)
