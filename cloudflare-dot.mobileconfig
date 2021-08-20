@@ -17,7 +17,7 @@
 					<string>1.0.0.1</string>
 				</array>
 				<key>ServerName</key>
-				<string>one.one.one.one</string>
+				<string>cloudflare-dns.com</string>
 			</dict>
 			<key>PayloadDescription</key>
 			<string>Configures device to use Cloudflare Encrypted DNS over TLS</string>
