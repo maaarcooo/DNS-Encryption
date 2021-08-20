@@ -20,9 +20,9 @@
 				<string>https://dns.google/dns-query</string>
 			</dict>
 			<key>PayloadDescription</key>
-			<string>Configures device to use Google Encrypted DNS over HTTPS</string>
+			<string>Configures device to use Google Public Encrypted DNS over HTTPS</string>
 			<key>PayloadDisplayName</key>
-			<string>Google DNS over HTTPS</string>
+			<string>Google Public DNS over HTTPS</string>
 			<key>PayloadIdentifier</key>
 			<string>com.apple.dnsSettings.managed.9d6e5fdf-e404-4f34-ae94-27ed2f636ac4</string>
 			<key>PayloadType</key>
@@ -36,9 +36,9 @@
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>Google DNS over HTTPS for iOS 14 and macOS Big Sur or newer systems</string>
+	<string>Google Public DNS over HTTPS for iOS 14 and macOS Big Sur or newer systems</string>
 	<key>PayloadDisplayName</key>
-	<string>Google DNS over HTTPS</string>
+	<string>Google Public DNS over HTTPS</string>
 	<key>PayloadIdentifier</key>
 	<string>com.google-doh.apple-dns</string>
 	<key>PayloadRemovalDisallowed</key>
