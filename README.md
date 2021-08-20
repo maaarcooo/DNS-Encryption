@@ -5,24 +5,31 @@
 
 ## Shortcuts
 
-## [Cloudflare](https://1.1.1.1/) shortcuts
+## [Cloudflare](https://1.1.1.1/)
 - [DNS over TLS](https://github.com/MARCO-EMC/DNS-Encryption/raw/main/cloudflare-dot.mobileconfig)
 - [DNS over HTTPS](https://github.com/MARCO-EMC/DNS-Encryption/raw/main/cloudflare-doh.mobileconfig)
 - [Security](https://github.com/MARCO-EMC/DNS-Encryption/raw/main/cloudflare-security-doh.mobileconfig)
 - [Family](https://github.com/MARCO-EMC/DNS-Encryption/raw/main/cloudflare-family-doh.mobileconfig)
 
-## [ADGuard](https://adguard.com/en/adguard-dns/overview.html) shortcuts
+## [ADGuard](https://adguard.com/en/adguard-dns/overview.html)
 - [DNS over TLS](https://github.com/MARCO-EMC/DNS-Encryption/raw/main/adguard-dot.mobileconfig)
 - [DNS over TLS Family protection](https://github.com/MARCO-EMC/DNS-Encryption/raw/main/adguard-family-dot.mobileconfig)
 - [DNS over HTTPS](https://github.com/MARCO-EMC/DNS-Encryption/raw/main/adguard-doh.mobileconfig)
 - [DNS over HTTPS Family protection](https://github.com/MARCO-EMC/DNS-Encryption/raw/main/adguard-family-doh.mobileconfig)
+- [DNS over TLS Non-filtering]
+- [DNS over HTTPS Non-filtering]
 
-## [Google](https://developers.google.com/speed/public-dns/) shortcuts
+## [Google](https://developers.google.com/speed/public-dns/)
 - [DNS over TLS](https://github.com/MARCO-EMC/DNS-Encryption/raw/main/google-dot.mobileconfig)
 - [DNS over HTTPS](https://github.com/MARCO-EMC/DNS-Encryption/raw/main/google-doh.mobileconfig)
 
-## [Quad9](https://quad9.net/service/service-addresses-and-features) shortcuts
-
+## [Quad9](https://quad9.net/service/service-addresses-and-features)
+- [DNS over TLS]
+- [DNS over HTTPS]
+- [DNS over TLS ECS]
+- [DNS over HTTPS ECS]
+- [DNS over TLS Unsecured]
+- [DNS over HTTPS Unsecured]
 ------------------------------------------------------
 
 ## Compare
