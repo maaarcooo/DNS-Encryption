@@ -40,7 +40,7 @@
 	<key>PayloadDisplayName</key>
 	<string>NextDNS DNS over HTTPS</string>
 	<key>PayloadIdentifier</key>
-	<string>com.nextdns-doh.apple-dns</string>
+	<string>com.nextdnsfecbc1-doh.apple-dns</string>
 	<key>PayloadRemovalDisallowed</key>
 	<false/>
 	<key>PayloadType</key>
