@@ -11,13 +11,13 @@
 				<string>TLS</string>
 				<key>ServerAddresses</key>
 				<array>
-					<string>2a07:a8c0::fe:cbc1</string>
-					<string>2a07:a8c1::fe:cbc1</string>
-					<string>45.90.28.197</string>
-					<string>45.90.30.197</string>
+					<string>2a07:a8c0::1b:5712</string>
+					<string>2a07:a8c1::1b:5712</string>
+					<string>45.90.28.19</string>
+					<string>45.90.30.19</string>
 				</array>
 				<key>ServerName</key>
-				<string>fecbc1.dns.nextdns.io</string>
+				<string>1b5712.dns.nextdns.io</string>
 			</dict>
 			<key>PayloadDescription</key>
 			<string>Configures device to use NextDNS Encrypted DNS over TLS</string>
