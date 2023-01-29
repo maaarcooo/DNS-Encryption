@@ -5,43 +5,43 @@
 
 ## Shortcuts
 
-## [Cloudflare](https://1.1.1.1/)
-- [DNS over TLS](https://github.com/MARCO-EMC/DNS-Encryption/raw/main/cloudflare-dot.mobileconfig)
-- [DNS over HTTPS](https://github.com/MARCO-EMC/DNS-Encryption/raw/main/cloudflare-doh.mobileconfig)
-- [DNS over HTTPS Security](https://github.com/MARCO-EMC/DNS-Encryption/raw/main/cloudflare-security-doh.mobileconfig)
-- [DNS over HTTPS Family](https://github.com/MARCO-EMC/DNS-Encryption/raw/main/cloudflare-family-doh.mobileconfig)
-
 ## [ADGuard](https://adguard.com/en/adguard-dns/overview.html)
-- [DNS over TLS](https://github.com/MARCO-EMC/DNS-Encryption/raw/main/adguard-dot.mobileconfig)
-- [DNS over HTTPS](https://github.com/MARCO-EMC/DNS-Encryption/raw/main/adguard-doh.mobileconfig)
-- [DNS over TLS Family protection](https://github.com/MARCO-EMC/DNS-Encryption/raw/main/adguard-family-dot.mobileconfig)
-- [DNS over HTTPS Family protection](https://github.com/MARCO-EMC/DNS-Encryption/raw/main/adguard-family-doh.mobileconfig)
-- [DNS over TLS Non-filtering](https://github.com/MARCO-EMC/DNS-Encryption/raw/main/adguard-unfiltered-dot.mobileconfig)
-- [DNS over HTTPS Non-filtering](https://github.com/MARCO-EMC/DNS-Encryption/raw/main/adguard-unfiltered-doh.mobileconfig)
-- [Verified ADGuard DNS](https://github.com/MARCO-EMC/DNS-Encryption/blob/main/adguard-dns.mobileconfig?raw=true)
-- [Verified AdGuard DNS Family protection](https://github.com/MARCO-EMC/DNS-Encryption/blob/main/adguard-dns-family.mobileconfig?raw=true)
-- [Verified AdGuard DNS Non-filtering](https://github.com/MARCO-EMC/DNS-Encryption/blob/main/adguard-dns-unfiltered.mobileconfig?raw=true)
+- [DNS over TLS](https://github.com/MARCO-E5/DNS-Encryption/raw/main/adguard-dot.mobileconfig)
+- [DNS over HTTPS](https://github.com/MARCO-E5/DNS-Encryption/raw/main/adguard-doh.mobileconfig)
+- [DNS over TLS Family protection](https://github.com/MARCO-E5/DNS-Encryption/raw/main/adguard-family-dot.mobileconfig)
+- [DNS over HTTPS Family protection](https://github.com/MARCO-E5/DNS-Encryption/raw/main/adguard-family-doh.mobileconfig)
+- [DNS over TLS Non-filtering](https://github.com/MARCO-E5/DNS-Encryption/raw/main/adguard-unfiltered-dot.mobileconfig)
+- [DNS over HTTPS Non-filtering](https://github.com/MARCO-E5/DNS-Encryption/raw/main/adguard-unfiltered-doh.mobileconfig)
+- [Verified ADGuard DNS](https://github.com/MARCO-E5/DNS-Encryption/raw/main/adguard-dns.mobileconfig)
+- [Verified AdGuard DNS Family protection](https://github.com/MARCO-E5/DNS-Encryption/raw/main/adguard-dns-family.mobileconfig)
+- [Verified AdGuard DNS Non-filtering](https://github.com/MARCO-E5/DNS-Encryption/raw/main/adguard-dns-unfiltered.mobileconfig)
+
+## [Cloudflare](https://1.1.1.1/)
+- [DNS over TLS](https://github.com/MARCO-E5/DNS-Encryption/raw/main/cloudflare-dot.mobileconfig)
+- [DNS over HTTPS](https://github.com/MARCO-E5/DNS-Encryption/raw/main/cloudflare-doh.mobileconfig)
+- [DNS over HTTPS Security](https://github.com/MARCO-E5/DNS-Encryption/raw/main/cloudflare-security-doh.mobileconfig)
+- [DNS over HTTPS Family](https://github.com/MARCO-E5/DNS-Encryption/raw/main/cloudflare-family-doh.mobileconfig)
 
 ## [Google](https://developers.google.com/speed/public-dns/)
-- [DNS over TLS](https://github.com/MARCO-EMC/DNS-Encryption/raw/main/google-dot.mobileconfig)
-- [DNS over HTTPS](https://github.com/MARCO-EMC/DNS-Encryption/raw/main/google-doh.mobileconfig)
-
-## [Quad9](https://quad9.net/service/service-addresses-and-features)
-- [DNS over TLS](https://github.com/MARCO-EMC/DNS-Encryption/raw/main/quad9-dot.mobileconfig)
-- [DNS over HTTPS](https://github.com/MARCO-EMC/DNS-Encryption/raw/main/quad9-doh.mobileconfig)
-- [DNS over TLS ECS](https://github.com/MARCO-EMC/DNS-Encryption/raw/main/quad9-ecs-dot.mobileconfig)
-- [DNS over HTTPS ECS](https://github.com/MARCO-EMC/DNS-Encryption/raw/main/quad9-ecs-doh.mobileconfig)
-- [DNS over TLS Unsecured](https://github.com/MARCO-EMC/DNS-Encryption/raw/main/quad9-unsecured-dot.mobileconfig)
-- [DNS over HTTPS Unsecured](https://github.com/MARCO-EMC/DNS-Encryption/raw/main/quad9-unsecured-doh.mobileconfig)
-
-## [OpenDNS](https://support.opendns.com/hc/en-us/articles/360038086532-Using-DNS-over-HTTPS-DoH-with-OpenDNS)
-- [DNS over HTTPS](https://github.com/MARCO-EMC/DNS-Encryption/raw/main/opendns-doh.mobileconfig)
-- [DNS over HTTPS FamilyShield](https://github.com/MARCO-EMC/DNS-Encryption/raw/main/opendns-familyshield-doh.mobileconfig)
+- [DNS over TLS](https://github.com/MARCO-E5/DNS-Encryption/raw/main/google-dot.mobileconfig)
+- [DNS over HTTPS](https://github.com/MARCO-E5/DNS-Encryption/raw/main/google-doh.mobileconfig)
 
 ## [NextDNS](https://nextdns.io/)
-- [DNS over TLS](https://github.com/MARCO-EMC/DNS-Encryption/raw/main/nextdns-dot.mobileconfig)
-- [DNS over HTTPS](https://github.com/MARCO-EMC/DNS-Encryption/raw/main/nextdns-doh.mobileconfig)
-- [Verified NextDNS](https://github.com/MARCO-EMC/DNS-Encryption/blob/main/nextdns-fecbc1.mobileconfig?raw=true)
+- [DNS over TLS](https://github.com/MARCO-E5/DNS-Encryption/raw/main/nextdns-dot.mobileconfig)
+- [DNS over HTTPS](https://github.com/MARCO-E5/DNS-Encryption/raw/main/nextdns-doh.mobileconfig)
+- [Verified NextDNS](https://github.com/MARCO-E5/DNS-Encryption/raw/main/nextdns-1b5712.mobileconfig)
+
+## [OpenDNS](https://support.opendns.com/hc/en-us/articles/360038086532-Using-DNS-over-HTTPS-DoH-with-OpenDNS)
+- [DNS over HTTPS](https://github.com/MARCO-E5/DNS-Encryption/raw/main/opendns-doh.mobileconfig)
+- [DNS over HTTPS FamilyShield](https://github.com/MARCO-E5/DNS-Encryption/raw/main/opendns-familyshield-doh.mobileconfig)
+
+## [Quad9](https://quad9.net/service/service-addresses-and-features)
+- [DNS over TLS](https://github.com/MARCO-E5/DNS-Encryption/raw/main/quad9-dot.mobileconfig)
+- [DNS over HTTPS](https://github.com/MARCO-E5/DNS-Encryption/raw/main/quad9-doh.mobileconfig)
+- [DNS over TLS ECS](https://github.com/MARCO-E5/DNS-Encryption/raw/main/quad9-ecs-dot.mobileconfig)
+- [DNS over HTTPS ECS](https://github.com/MARCO-E5/DNS-Encryption/raw/main/quad9-ecs-doh.mobileconfig)
+- [DNS over TLS Unsecured](https://github.com/MARCO-E5/DNS-Encryption/raw/main/quad9-unsecured-dot.mobileconfig)
+- [DNS over HTTPS Unsecured](https://github.com/MARCO-E5/DNS-Encryption/raw/main/quad9-unsecured-doh.mobileconfig)
 
 ------------------------------------------------------
 
